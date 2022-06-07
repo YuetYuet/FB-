@@ -16,7 +16,7 @@ FB紛絲專業連結(https://www.facebook.com/Blueberry%E5%AD%B8%E5%A0%82-116833
 <ul>
   <img src="https://imgur.com/tKvtEqu.png" width="675" height="350"/><br>
 </ul>
-<br>
+
 
 <h3>程式設計</h3>
 <ul>
@@ -40,6 +40,6 @@ FB紛絲專業連結(https://www.facebook.com/Blueberry%E5%AD%B8%E5%A0%82-116833
 
 <h3>未來期望</h3>
    <ul>
-      <li>目前至多支援3位玩家，期忘可以支援多人同時遊玩<br></li>
+      <li>目前至多支援3位玩家，期望可以支援多人同時遊玩<br></li>
       <li>互動式劇情<br></li>
    </ul>
